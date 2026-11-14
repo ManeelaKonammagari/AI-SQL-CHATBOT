@@ -1,0 +1,4 @@
+root: C:\Users\New\Downloads\Nova_SQL_Assistant-MYSQL-STATUS-FIXED\backend\venv 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
